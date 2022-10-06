@@ -235,6 +235,10 @@ div h4 {
     width: 200px;
 }
 
+.follow a {
+    text-decoration: none;
+}
+
 .insta-image{
     margin-left: 12px;
 }
